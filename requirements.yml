@@ -2,7 +2,7 @@
 - src: https://github.com/redhat-cop/openshift-applier
   version: master
 
-- src: https://github.com/${GITHUB_ACCOUNT}/gitops-test.git
+- src: https://github.com/rossato/gitops-test.git
   name: self
   version: master
 

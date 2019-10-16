@@ -1,1 +1,1 @@
-# OpenShift GirOps Lab
+# OpenShift GitOps Lab
